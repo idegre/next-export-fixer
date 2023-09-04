@@ -11,9 +11,10 @@ This tool allows for a quick fix, moving every named html file into it's own fol
 ### Instalation
 
 ```
-    npm i next-export-fixer -g
+    npm i next-export-fix -g
 ```
 
 ### Usage
 
 To use the script just run `fixExport <export out directory>` in your terminal from the project root directory.
+Then you can also chain it into your export command in your `package.json`

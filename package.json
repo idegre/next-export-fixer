@@ -1,5 +1,5 @@
 {
-  "name": "next-export-fixer",
+  "name": "next-export-fix",
   "version": "1.0.0",
   "description": "Utility to fix NextJS exports from named html files to named folders with idex files that allow better navigation. ",
   "main": "index.js",
