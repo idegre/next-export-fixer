@@ -1,0 +1,30 @@
+{
+  "name": "next-export-fixer",
+  "version": "1.0.0",
+  "description": "Utility to fix NextJS exports from named html files to named folders with idex files that allow better navigation. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NextJS",
+    "NEXT",
+    "next.JS",
+    "export",
+    "html",
+    "cli"
+  ],
+  "author": "Ignacio Degregori <ignacio.degregori+npm@gmail.com> (ignaciodegregori.com)",
+  "homepage": "https://github.com/idegre/next-export-fixer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idegre/next-export-fixer"
+  },
+  "dependencies": {
+    "glob": "^10.3.4"
+  },
+  "bin": {
+    "fixExport": "./bin/cli.js"
+  }
+}
