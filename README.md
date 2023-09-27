@@ -18,3 +18,7 @@ This tool allows for a quick fix, moving every named html file into it's own fol
 
 To use the script just run `fixExport <export out directory>` in your terminal from the project root directory.
 Then you can also chain it into your export command in your `package.json`
+
+### Read More
+
+You can read more about it on my [blog entry about it here](https://blog.ignaciodegregori.com/posts/how_to_fix_next_js_exporting_pages_as_files)
